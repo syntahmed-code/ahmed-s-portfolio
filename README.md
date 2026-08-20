@@ -1,4 +1,4 @@
-# Omar's Animated Portfolio
+# Ahmed's Animated Portfolio
 
 A modern, responsive, and animated portfolio website showcasing frontend development skills and projects.
 
